@@ -1,2 +1,9 @@
 # Vending-machine-client
-Implement using Reactjs
+
+
+### Operation
+
+````
+
+> npm i
+> npm run start
