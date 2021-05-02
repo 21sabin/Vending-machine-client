@@ -1,0 +1,38 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000;
+  padding-left: 40px;
+  padding-right: 20px;
+}
+
+.header-title {
+  color: #fff;
+}
+
+.header-title:hover {
+  text-decoration: none;
+  list-style: none;
+}
+
+.header_list {
+  list-style: none;
+  display: flex;
+  width: 90%;
+  justify-content: center;
+  align-items: center;
+}
+
+.header_list li {
+  padding: 20px;
+  color: #fff
+}
+
+ul li:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  padding-top: 10px
+}

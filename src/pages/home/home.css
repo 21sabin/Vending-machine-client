@@ -1,0 +1,30 @@
+.home {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.home_left {
+  width: 30%;
+}
+
+.home_center {
+  width: 30%;
+}
+
+.home_right {
+  padding: 20px;
+  width: 30%;
+}
+
+ul li {
+  list-style: none;
+}
+
+.item-header {
+  display: flex;
+  justify-content: space-between;
+}
